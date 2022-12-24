@@ -1,0 +1,37 @@
+.mainCity {
+  font-size: 40px;
+  text-align: center;
+  padding-left: 30px;
+}
+.dateToday {
+  font-size: 15px;
+  text-align: center;
+  padding-left: 30px;
+}
+.mainImage {
+  font-size: 40px;
+  text-align: center;
+}
+.temperature {
+  font-size: 28px;
+  text-align: center;
+}
+.description {
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+  padding-right: 30px;
+}
+.description:first-letter {
+  text-transform: capitalize;
+}
+.humidity {
+  font-size: 15px;
+  text-align: center;
+  padding-right: 30px;
+}
+.wind {
+  font-size: 15px;
+  text-align: center;
+  padding-right: 30px;
+}

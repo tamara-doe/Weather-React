@@ -1,0 +1,19 @@
+.description {
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+  padding-right: 30px;
+}
+.description:first-letter {
+  text-transform: capitalize;
+}
+.humidity {
+  font-size: 15px;
+  text-align: center;
+  padding-right: 30px;
+}
+.wind {
+  font-size: 15px;
+  text-align: center;
+  padding-right: 30px;
+}
